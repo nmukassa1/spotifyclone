@@ -1,7 +1,7 @@
 const playlist = {
     whatsTheDifference: {
-        audio: `../assets/album/drDre/audio/Y2Mate.is - What's The Difference--Ubyt7iWJ8Q-160k-1648734303996.mp3`,
-        img: `../assets/album/drDre/img/DrDre-2001.jpg`,
+        audio: `assets/album/drDre/audio/Y2Mate.is - What's The Difference--Ubyt7iWJ8Q-160k-1648734303996.mp3`,
+        img: `assets/album/drDre/img/DrDre-2001.jpg`,
         songName: `What's the difference`,
         artists: [`Dr. Dre`, 'Eminem', 'Exzibit'],
         album: `2001`,
@@ -10,8 +10,8 @@ const playlist = {
         id: `whatsTheDifference`
     },
     iWontComplain: {
-        audio: `../assets/album/benjamineClementine/audio/Y2Mate.is - Benjamin Clementine - I Won’t Complain (Official Video)-JQ4mFaI17pk-48k-1649180195082.mp3`,
-        img: `../assets/album/benjamineClementine/img/atleastfornow_cover_sq-2b1ebd1afa609105b3311ce6145c72a0f8aa05e6.jpg`,
+        audio: `assets/album/benjamineClementine/audio/Y2Mate.is - Benjamin Clementine - I Won’t Complain (Official Video)-JQ4mFaI17pk-48k-1649180195082.mp3`,
+        img: `assets/album/benjamineClementine/img/atleastfornow_cover_sq-2b1ebd1afa609105b3311ce6145c72a0f8aa05e6.jpg`,
         songName: `I won't complain`,
         artists: [`Benjamin Clementine`],
         album: `At least for now (delux)`,
@@ -20,8 +20,8 @@ const playlist = {
         id: `iWontComplain`
     },
     comingHome: {
-        audio: `../assets/album/leonBridges/audio/Y2Mate.is - Leon Bridges - Coming Home (Official Music Video)-MTrKkqE9p1o-48k-1649015391822.mp3`,
-        img: `../assets/album/leonBridges/img/ea0ba47fd4268773fefe92cf0db8cd53.999x999x1.jpg`,
+        audio: `assets/album/leonBridges/audio/Y2Mate.is - Leon Bridges - Coming Home (Official Music Video)-MTrKkqE9p1o-48k-1649015391822.mp3`,
+        img: `assets/album/leonBridges/img/ea0ba47fd4268773fefe92cf0db8cd53.999x999x1.jpg`,
         songName: `Coming Home`,
         artists: [`Leon Bridges`],
         album: `Coming Home (delux)`,
@@ -30,8 +30,8 @@ const playlist = {
         id: `comingHome`
     },
     boomerang: {
-        audio: `../assets/album/jidenna/audio/Y2Mate.is - Jidenna - Boomerang-k2R5FNOEEGw-48k-1649352948257.mp3`,
-        img: `../assets/album/jidenna/img/jidenna-boomerang-ep-620x620.jpg`,
+        audio: `assets/album/jidenna/audio/Y2Mate.is - Jidenna - Boomerang-k2R5FNOEEGw-48k-1649352948257.mp3`,
+        img: `assets/album/jidenna/img/jidenna-boomerang-ep-620x620.jpg`,
         songName: `Boomerang`,
         artists: [`Jidenna`],
         album: `Boomerang EP`,
