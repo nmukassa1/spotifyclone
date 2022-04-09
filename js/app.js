@@ -1,7 +1,7 @@
 const playlist = {
     whatsTheDifference: {
-        audio: `assets/album/drDre/audio/Y2Mate.is - What's The Difference--Ubyt7iWJ8Q-160k-1648734303996.mp3`,
-        img: `assets/album/drDre/img/DrDre-2001.jpg`,
+        audio: `../album/drDre/audio/Y2Mate.is - What's The Difference--Ubyt7iWJ8Q-160k-1648734303996.mp3`,
+        img: `../album/drDre/img/DrDre-2001.jpg`,
         songName: `What's the difference`,
         artists: [`Dr. Dre`, 'Eminem', 'Exzibit'],
         album: `2001`,
